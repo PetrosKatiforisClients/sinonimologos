@@ -18,7 +18,7 @@
     <p>Η ιστοσελίδα δημιουργήθηκε χρησιμοποιώντας την Svelte.js</p>
     
     <p>Ο κώδικας είναι δημοσίως διαθέσιμος 
-      <a target="_blank" href="https://github.com/Petros-K/Synonimologos">εδώ</a>
+      <a target="_blank" href="https://github.com/PetrosKatiforisClients/sinonimologos">εδώ</a>
     </p>
   </DropdownButton>
 
